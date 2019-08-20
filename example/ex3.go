@@ -16,7 +16,7 @@ import (
     "os/exec"
 )
 
-import "github.com/wuxicn/pipeline"
+import "github.com/Badangel/pipeline"
 
 func main() {
 
